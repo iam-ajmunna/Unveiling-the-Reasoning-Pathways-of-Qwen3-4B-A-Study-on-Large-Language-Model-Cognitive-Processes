@@ -1,2 +1,2 @@
-# Unveiling-the-Reasoning-Pathways-of-Qwen3-4B-A-Study-on-Large-Language-Model-Cognitive-Processes
-This project studies the reasoning process of Qwen3-4B, examining how it solves tasks through chain-of-thought, self-consistency, and reflection. By analyzing correctness, reasoning quality, and error patterns, the research highlights the model’s strengths and limitations in structured reasoning.
+# Reasoning Pathways in Qwen3-4B: LoRA Optimization for Efficient QA Performance
+This research evaluates Qwen3-4B’s reasoning across diverse datasets, comparing prompting strategies and optimizing efficiency with LoRA fine-tuning for QA tasks. It analyzes accuracy, latency, and error types, highlighting trade-offs. Results inform lightweight LLM optimization for enhanced reasoning performance.
